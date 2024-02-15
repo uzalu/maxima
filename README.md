@@ -1,2 +1,2 @@
-# maxima
-TTRPG Ruleset
+# Maxima
+TTRPG Ruleset by uzalu
