@@ -1,0 +1,53 @@
+
+.subline {
+	opacity: .65;
+	font-size: .9em;
+	line-height: 1.5em;
+	margin-left: 1em !important;
+	display: inline-block;
+}
+
+h1::before {
+	content: ""!important
+}
+
+h2::before {
+	content: "— "!important
+}
+
+h3::before {
+	content: "— — "!important
+}
+
+h4::before {
+	content: "— — — "!important
+}
+
+h5::before {
+	content: "— — — — "!important
+}
+
+h1:target::before,
+h2:target::before,
+h3:target::before,
+h4:target::before,
+h5:target::before,
+h6:target::before {
+	display: inline!important;
+	margin-inline-start: inherit!important;
+	width: inherit!important;
+}
+
+h1:target,
+h2:target,
+h3:target,
+h4:target,
+h5:target,
+h6:target {
+	border-left: .5em solid yellow;
+	padding: .5em .5em;
+}
+
+main {
+	margin-bottom: 50vh;
+}

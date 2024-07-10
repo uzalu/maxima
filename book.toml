@@ -1,0 +1,10 @@
+[book]
+authors = ["uzalu"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Maxima"
+
+
+[output.html]
+additional-css = ["material.css", "custom.css"]

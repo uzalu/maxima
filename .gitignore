@@ -1,0 +1,5 @@
+book
+.obsidian
+*.sh
+src/old/
+src/todo.txt
