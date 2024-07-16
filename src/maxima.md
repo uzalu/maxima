@@ -9,6 +9,6 @@ Created by uzalu
 {{#include licence.md}}
 
 # Version
-**Maxima.2023.alpha.0.4** (In Progress)
+{{#include version.md}}
 
 More details: [Versions](versions.md)

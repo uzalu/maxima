@@ -3,6 +3,8 @@ Areas of the ruleset which are likely to change.
 
 This page is written in the form of notes and ideas, open for comment, yet-to-be formalised.
 
+These notes are in chronological order. Items near the start may have been eclipsed by items near the end.
+
 ## Strain
 Modifying every single Challenge by Strain is arduous, but most notably, it seems unnecessary. There are other factors which can affect Challenges, or ways to apply Strain to Challenges which don't require direct subtraction on every single Challenge.
 

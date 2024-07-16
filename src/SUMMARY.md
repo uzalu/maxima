@@ -14,7 +14,6 @@
 	- [💠 Specials](specials.md)
 		- [Common 💠Specials](common_specials.md)
 	- [⚕️ Status](status.md)
-	- [Character Creation](character_creation.md)
 - [🎯 Challenges](challenges.md)
 	- [Long Challenges](long_challenges.md)
 	- [Resistance Challenges](resistance_challenges.md)

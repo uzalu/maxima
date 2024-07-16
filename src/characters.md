@@ -1,7 +1,7 @@
 # Characters
-A Character is anything in the world which might be involved in a Challenge.
+A Character is anything in the world which might undergo a [Challenge](challenges.md).
 
-Challenges test the capabilities of a Character.
+[Challenges](challenges.md) test the capabilities of a Character.
 
 Almost anything can be a Character. Some examples include:
 
@@ -15,7 +15,8 @@ A lot of the language around Characters in this document applies primarily to Hu
 ## Recording a Character
 Any important Characters, especially Player-Characters, should be recorded.
 
-The information can be recorded on paper, digitally, or however is convenient.
+The information can be recorded on paper, digitally, or however is convenient.  
+<span class="subline">A campaign can be started with nothing recorded. Just record what's needed when it's needed.<span>
 
 Recorded information is in these categories:
 
@@ -28,3 +29,13 @@ Recorded information is in these categories:
 | [🧰 Skills](skills.md) | What a Character is good at |
 | [💠 Specials](specials.md) | Notable non-standard abilities |
 | [⚕️ Status](status.md) | Currently-active conditions |
+
+## Character Creation
+Characters, particularly Player-Characters, should be designed using this process.
+
+### Acquiring Skills
+Players may spend 1 🌱Growth to increase a 🧰Skill's Rating by 1.  
+<span class="subline">This includes creating the 🧰Skill at level 1.</span>
+
+---
+*Work in Progress*

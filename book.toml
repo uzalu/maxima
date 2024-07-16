@@ -3,7 +3,7 @@ authors = ["uzalu"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Maxima"
+title = "Maxima (Incomplete)"
 
 
 [output.html]

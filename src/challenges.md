@@ -40,6 +40,7 @@ Roll any number of 6-sided dice (“1d6”). Each roll costs 1 🌠Willpower.
 Rolls cost 2 🌠Willpower if the Character is [Impaired](/strain.md#impaired).
 
 Choose one of the dice roll results, and apply the effect matching your result:
+<span class="subline">If you choose to roll, you must use one of the roll results.</span>
 
 | Result | Effect |
 |-|-|
